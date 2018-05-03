@@ -116,7 +116,7 @@ public class MainClass {
     public static void main(String[] args) {
         startProp();
         unitTest();
-        //end();
+        end();
     }
 
     private static void startProp() {
